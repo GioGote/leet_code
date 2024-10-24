@@ -1,0 +1,13 @@
+Read the problem twice to understand item
+
+Try think basically of different ways to solve problems
+
+Think end-to-end of the best solutions based on Complexity
+
+Write the algorithm from patterns in drawing
+
+Code it out
+
+Improve once its finished
+
+Go through other solutions

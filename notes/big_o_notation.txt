@@ -1,0 +1,25 @@
+Big (O) - Time and Space Complexity
+
+Time Complexity: Describes the amount of time necessary to execute an Algo
+Space Complexity: Describes amount of memory or space utilized by an algorithm/program
+
+Both: Asymptotically
+
+Linear Example: 
+
+number = [3,10,2,3]
+
+for number in list:
+    if number == 2:
+        return True
+    
+return False
+
+Complexities: 
+    Factorial: O(n!) - why the fuck would you do this
+    Exponential: O(2^n) -  Finding all Subsets
+    Quadratic: O(n^2) - Bubblesort or Selectionsort
+    Linearithmic: O(n Log n) - Mergesort or Quicksort
+    Linear: O(n) - Finding an item in an unsorted array
+    Logarithmic: O(log (n)) - Binary Search in a sorted array
+    Constant: O(1) - Accessing element by index
